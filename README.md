@@ -1,0 +1,2 @@
+# sqlcompare
+database comparisson tool
